@@ -1,0 +1,15 @@
+C:\Mon_Code\Bisextile\obj\Debug\net7.0\Bisextile.csproj.AssemblyReference.cache
+C:\Mon_Code\Bisextile\obj\Debug\net7.0\Bisextile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mon_Code\Bisextile\obj\Debug\net7.0\Bisextile.AssemblyInfoInputs.cache
+C:\Mon_Code\Bisextile\obj\Debug\net7.0\Bisextile.AssemblyInfo.cs
+C:\Mon_Code\Bisextile\obj\Debug\net7.0\Bisextile.csproj.CoreCompileInputs.cache
+C:\Mon_Code\Bisextile\bin\Debug\net7.0\Bisextile.exe
+C:\Mon_Code\Bisextile\bin\Debug\net7.0\Bisextile.deps.json
+C:\Mon_Code\Bisextile\bin\Debug\net7.0\Bisextile.runtimeconfig.json
+C:\Mon_Code\Bisextile\bin\Debug\net7.0\Bisextile.dll
+C:\Mon_Code\Bisextile\bin\Debug\net7.0\Bisextile.pdb
+C:\Mon_Code\Bisextile\obj\Debug\net7.0\Bisextile.dll
+C:\Mon_Code\Bisextile\obj\Debug\net7.0\refint\Bisextile.dll
+C:\Mon_Code\Bisextile\obj\Debug\net7.0\Bisextile.pdb
+C:\Mon_Code\Bisextile\obj\Debug\net7.0\Bisextile.genruntimeconfig.cache
+C:\Mon_Code\Bisextile\obj\Debug\net7.0\ref\Bisextile.dll
